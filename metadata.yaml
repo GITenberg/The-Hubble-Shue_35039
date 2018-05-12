@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '37420'
     url: http://www.gutenberg.org/2009/agents/37420
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35039#The-Hubble-Shue
 gutenberg_issued: '2011-01-22'
 gutenberg_type: Text
 identifiers:
